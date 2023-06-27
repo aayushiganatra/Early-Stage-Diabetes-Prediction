@@ -7,10 +7,10 @@ Fall 2022
 Prof. Steven Lindo
 
 ## Team Info
-Aayushi Ganatra
-Tirth Darji
-Tim Hurley
-Sarah Johnson
+Aayushi Ganatra,
+Tirth Darji,
+Tim Hurley,
+Sarah Johnson, and
 Angela Vallejo
 
 ## Overview
