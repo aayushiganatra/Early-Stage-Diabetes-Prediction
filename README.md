@@ -1,10 +1,4 @@
-# Early Stage Diabetes (Type 2) Prediction
-
-## Class Info
-
-CSCI860/DTSC710 - Machine Learning
-Fall 2022
-Prof. Steven Lindo
+# Surviving Early Stage Diabetes (Type2) Personal Project
 
 ## Team Info
 Aayushi Ganatra,
